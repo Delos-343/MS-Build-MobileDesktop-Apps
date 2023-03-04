@@ -1,0 +1,1 @@
+C:\Users\lenovo\Desktop\Native Apps\.NET\MS-Build-MobileDesktop-Apps\MS-Build-MobileDesktop-Apps.csproj;x64
