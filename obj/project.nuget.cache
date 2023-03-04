@@ -1,0 +1,457 @@
+{
+  "version": 2,
+  "dgSpecHash": "X6yjVLYy9VerPFTmijEI34MyPy2Tw1yYB7d72eUkcfcBfakNUrWOLEITQPcXLWVc/ca/Mo/FRB8qFv8pvtt0cg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\lenovo\\Desktop\\Native Apps\\.NET\\MS-Build-MobileDesktop-Apps\\MS-Build-MobileDesktop-Apps.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.maui.graphics\\7.0.59\\microsoft.maui.graphics.7.0.59.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.maui.graphics.win2d.winui.desktop\\7.0.59\\microsoft.maui.graphics.win2d.winui.desktop.7.0.59.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.22621.755\\microsoft.windows.sdk.buildtools.10.0.22621.755.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Xamarin.AndroidX.Navigation.Fragment. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Xamarin.AndroidX.Navigation.Fragment",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Xamarin.Google.Android.Material. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Xamarin.Google.Android.Material",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Xamarin.Google.Crypto.Tink.Android. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Xamarin.Google.Crypto.Tink.Android",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Xamarin.AndroidX.Navigation.Common. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Xamarin.AndroidX.Navigation.Common",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Xamarin.AndroidX.Security.SecurityCrypto. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Xamarin.AndroidX.Security.SecurityCrypto",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.Extensions.DependencyInjection. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Extensions.DependencyInjection",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64",
+        "net7.0-ios16.1",
+        "net7.0-ios16.1/android-arm",
+        "net7.0-ios16.1/android-arm64",
+        "net7.0-ios16.1/android-x64",
+        "net7.0-ios16.1/android-x86",
+        "net7.0-ios16.1/iossimulator-x64",
+        "net7.0-ios16.1/maccatalyst-x64",
+        "net7.0-ios16.1/win10-x64",
+        "net7.0-maccatalyst16.1",
+        "net7.0-maccatalyst16.1/android-arm",
+        "net7.0-maccatalyst16.1/android-arm64",
+        "net7.0-maccatalyst16.1/android-x64",
+        "net7.0-maccatalyst16.1/android-x86",
+        "net7.0-maccatalyst16.1/iossimulator-x64",
+        "net7.0-maccatalyst16.1/maccatalyst-x64",
+        "net7.0-maccatalyst16.1/win10-x64",
+        "net7.0-windows10.0.19041",
+        "net7.0-windows10.0.19041/android-arm",
+        "net7.0-windows10.0.19041/android-arm64",
+        "net7.0-windows10.0.19041/android-x64",
+        "net7.0-windows10.0.19041/android-x86",
+        "net7.0-windows10.0.19041/iossimulator-x64",
+        "net7.0-windows10.0.19041/maccatalyst-x64",
+        "net7.0-windows10.0.19041/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Xamarin.AndroidX.Lifecycle.LiveData. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.LiveData",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Xamarin.Android.Glide. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Xamarin.Android.Glide",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Xamarin.AndroidX.Legacy.Support.V4. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Xamarin.AndroidX.Legacy.Support.V4",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Xamarin.AndroidX.Navigation.UI. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Xamarin.AndroidX.Navigation.UI",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.Extensions.Logging. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Extensions.Logging",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64",
+        "net7.0-ios16.1",
+        "net7.0-ios16.1/android-arm",
+        "net7.0-ios16.1/android-arm64",
+        "net7.0-ios16.1/android-x64",
+        "net7.0-ios16.1/android-x86",
+        "net7.0-ios16.1/iossimulator-x64",
+        "net7.0-ios16.1/maccatalyst-x64",
+        "net7.0-ios16.1/win10-x64",
+        "net7.0-maccatalyst16.1",
+        "net7.0-maccatalyst16.1/android-arm",
+        "net7.0-maccatalyst16.1/android-arm64",
+        "net7.0-maccatalyst16.1/android-x64",
+        "net7.0-maccatalyst16.1/android-x86",
+        "net7.0-maccatalyst16.1/iossimulator-x64",
+        "net7.0-maccatalyst16.1/maccatalyst-x64",
+        "net7.0-maccatalyst16.1/win10-x64",
+        "net7.0-windows10.0.19041",
+        "net7.0-windows10.0.19041/android-arm",
+        "net7.0-windows10.0.19041/android-arm64",
+        "net7.0-windows10.0.19041/android-x64",
+        "net7.0-windows10.0.19041/android-x86",
+        "net7.0-windows10.0.19041/iossimulator-x64",
+        "net7.0-windows10.0.19041/maccatalyst-x64",
+        "net7.0-windows10.0.19041/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Xamarin.AndroidX.Browser. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Xamarin.AndroidX.Browser",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.Extensions.Logging.Abstractions. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64",
+        "net7.0-ios16.1",
+        "net7.0-ios16.1/android-arm",
+        "net7.0-ios16.1/android-arm64",
+        "net7.0-ios16.1/android-x64",
+        "net7.0-ios16.1/android-x86",
+        "net7.0-ios16.1/iossimulator-x64",
+        "net7.0-ios16.1/maccatalyst-x64",
+        "net7.0-ios16.1/win10-x64",
+        "net7.0-maccatalyst16.1",
+        "net7.0-maccatalyst16.1/android-arm",
+        "net7.0-maccatalyst16.1/android-arm64",
+        "net7.0-maccatalyst16.1/android-x64",
+        "net7.0-maccatalyst16.1/android-x86",
+        "net7.0-maccatalyst16.1/iossimulator-x64",
+        "net7.0-maccatalyst16.1/maccatalyst-x64",
+        "net7.0-maccatalyst16.1/win10-x64",
+        "net7.0-windows10.0.19041",
+        "net7.0-windows10.0.19041/android-arm",
+        "net7.0-windows10.0.19041/android-arm64",
+        "net7.0-windows10.0.19041/android-x64",
+        "net7.0-windows10.0.19041/android-x86",
+        "net7.0-windows10.0.19041/iossimulator-x64",
+        "net7.0-windows10.0.19041/maccatalyst-x64",
+        "net7.0-windows10.0.19041/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Xamarin.AndroidX.Navigation.Runtime. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Xamarin.AndroidX.Navigation.Runtime",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.Extensions.Logging.Debug. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Extensions.Logging.Debug",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64",
+        "net7.0-ios16.1",
+        "net7.0-ios16.1/android-arm",
+        "net7.0-ios16.1/android-arm64",
+        "net7.0-ios16.1/android-x64",
+        "net7.0-ios16.1/android-x86",
+        "net7.0-ios16.1/iossimulator-x64",
+        "net7.0-ios16.1/maccatalyst-x64",
+        "net7.0-ios16.1/win10-x64",
+        "net7.0-maccatalyst16.1",
+        "net7.0-maccatalyst16.1/android-arm",
+        "net7.0-maccatalyst16.1/android-arm64",
+        "net7.0-maccatalyst16.1/android-x64",
+        "net7.0-maccatalyst16.1/android-x86",
+        "net7.0-maccatalyst16.1/iossimulator-x64",
+        "net7.0-maccatalyst16.1/maccatalyst-x64",
+        "net7.0-maccatalyst16.1/win10-x64",
+        "net7.0-windows10.0.19041",
+        "net7.0-windows10.0.19041/android-arm",
+        "net7.0-windows10.0.19041/android-arm64",
+        "net7.0-windows10.0.19041/android-x64",
+        "net7.0-windows10.0.19041/android-x86",
+        "net7.0-windows10.0.19041/iossimulator-x64",
+        "net7.0-windows10.0.19041/maccatalyst-x64",
+        "net7.0-windows10.0.19041/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.Extensions.Configuration. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Extensions.Configuration",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64",
+        "net7.0-ios16.1",
+        "net7.0-ios16.1/android-arm",
+        "net7.0-ios16.1/android-arm64",
+        "net7.0-ios16.1/android-x64",
+        "net7.0-ios16.1/android-x86",
+        "net7.0-ios16.1/iossimulator-x64",
+        "net7.0-ios16.1/maccatalyst-x64",
+        "net7.0-ios16.1/win10-x64",
+        "net7.0-maccatalyst16.1",
+        "net7.0-maccatalyst16.1/android-arm",
+        "net7.0-maccatalyst16.1/android-arm64",
+        "net7.0-maccatalyst16.1/android-x64",
+        "net7.0-maccatalyst16.1/android-x86",
+        "net7.0-maccatalyst16.1/iossimulator-x64",
+        "net7.0-maccatalyst16.1/maccatalyst-x64",
+        "net7.0-maccatalyst16.1/win10-x64",
+        "net7.0-windows10.0.19041",
+        "net7.0-windows10.0.19041/android-arm",
+        "net7.0-windows10.0.19041/android-arm64",
+        "net7.0-windows10.0.19041/android-x64",
+        "net7.0-windows10.0.19041/android-x86",
+        "net7.0-windows10.0.19041/iossimulator-x64",
+        "net7.0-windows10.0.19041/maccatalyst-x64",
+        "net7.0-windows10.0.19041/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.WindowsAppSDK. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.WindowsAppSDK",
+      "targetGraphs": [
+        "net7.0-windows10.0.19041",
+        "net7.0-windows10.0.19041/android-arm",
+        "net7.0-windows10.0.19041/android-arm64",
+        "net7.0-windows10.0.19041/android-x64",
+        "net7.0-windows10.0.19041/android-x86",
+        "net7.0-windows10.0.19041/iossimulator-x64",
+        "net7.0-windows10.0.19041/maccatalyst-x64",
+        "net7.0-windows10.0.19041/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.Graphics.Win2D. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Graphics.Win2D",
+      "targetGraphs": [
+        "net7.0-windows10.0.19041",
+        "net7.0-windows10.0.19041/android-arm",
+        "net7.0-windows10.0.19041/android-arm64",
+        "net7.0-windows10.0.19041/android-x64",
+        "net7.0-windows10.0.19041/android-x86",
+        "net7.0-windows10.0.19041/iossimulator-x64",
+        "net7.0-windows10.0.19041/maccatalyst-x64",
+        "net7.0-windows10.0.19041/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.Windows.SDK.NET.Ref. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Windows.SDK.NET.Ref",
+      "targetGraphs": [
+        "net7.0-windows10.0.19041"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.App.Runtime.win-x64. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.App.Runtime.win-x64",
+      "targetGraphs": [
+        "net7.0-windows10.0.19041"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.WindowsDesktop.App.Runtime.win-x64. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+      "targetGraphs": [
+        "net7.0-windows10.0.19041"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App.Runtime.win-x64. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETCore.App.Runtime.win-x64",
+      "targetGraphs": [
+        "net7.0-windows10.0.19041"
+      ]
+    }
+  ]
+}

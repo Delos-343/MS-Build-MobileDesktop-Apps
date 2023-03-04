@@ -1,0 +1,1856 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0-android33.0": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    },
+    "net7.0-android33.0/android-arm": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    },
+    "net7.0-android33.0/android-arm64": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    },
+    "net7.0-android33.0/android-x64": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    },
+    "net7.0-android33.0/android-x86": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    },
+    "net7.0-android33.0/iossimulator-x64": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    },
+    "net7.0-android33.0/maccatalyst-x64": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    },
+    "net7.0-android33.0/win10-x64": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    },
+    "net7.0-ios16.1": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    },
+    "net7.0-ios16.1/android-arm": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    },
+    "net7.0-ios16.1/android-arm64": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    },
+    "net7.0-ios16.1/android-x64": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    },
+    "net7.0-ios16.1/android-x86": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    },
+    "net7.0-ios16.1/iossimulator-x64": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    },
+    "net7.0-ios16.1/maccatalyst-x64": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    },
+    "net7.0-ios16.1/win10-x64": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    },
+    "net7.0-maccatalyst16.1": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    },
+    "net7.0-maccatalyst16.1/android-arm": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    },
+    "net7.0-maccatalyst16.1/android-arm64": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    },
+    "net7.0-maccatalyst16.1/android-x64": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    },
+    "net7.0-maccatalyst16.1/android-x86": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    },
+    "net7.0-maccatalyst16.1/iossimulator-x64": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    },
+    "net7.0-maccatalyst16.1/maccatalyst-x64": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    },
+    "net7.0-maccatalyst16.1/win10-x64": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      }
+    },
+    "net7.0-windows10.0.19041": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.59": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Graphics.Win2D": "1.0.4",
+          "Microsoft.Maui.Graphics": "7.0.59",
+          "Microsoft.WindowsAppSDK": "1.2.221209.1"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
+      "Microsoft.Windows.SDK.BuildTools/10.0.22621.755": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.Windows.SDK.BuildTools.props": {},
+          "build/Microsoft.Windows.SDK.BuildTools.targets": {}
+        }
+      }
+    },
+    "net7.0-windows10.0.19041/android-arm": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.59": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Graphics.Win2D": "1.0.4",
+          "Microsoft.Maui.Graphics": "7.0.59",
+          "Microsoft.WindowsAppSDK": "1.2.221209.1"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
+      "Microsoft.Windows.SDK.BuildTools/10.0.22621.755": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.Windows.SDK.BuildTools.props": {},
+          "build/Microsoft.Windows.SDK.BuildTools.targets": {}
+        }
+      }
+    },
+    "net7.0-windows10.0.19041/android-arm64": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.59": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Graphics.Win2D": "1.0.4",
+          "Microsoft.Maui.Graphics": "7.0.59",
+          "Microsoft.WindowsAppSDK": "1.2.221209.1"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
+      "Microsoft.Windows.SDK.BuildTools/10.0.22621.755": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.Windows.SDK.BuildTools.props": {},
+          "build/Microsoft.Windows.SDK.BuildTools.targets": {}
+        }
+      }
+    },
+    "net7.0-windows10.0.19041/android-x64": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.59": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Graphics.Win2D": "1.0.4",
+          "Microsoft.Maui.Graphics": "7.0.59",
+          "Microsoft.WindowsAppSDK": "1.2.221209.1"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
+      "Microsoft.Windows.SDK.BuildTools/10.0.22621.755": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.Windows.SDK.BuildTools.props": {},
+          "build/Microsoft.Windows.SDK.BuildTools.targets": {}
+        }
+      }
+    },
+    "net7.0-windows10.0.19041/android-x86": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.59": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Graphics.Win2D": "1.0.4",
+          "Microsoft.Maui.Graphics": "7.0.59",
+          "Microsoft.WindowsAppSDK": "1.2.221209.1"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
+      "Microsoft.Windows.SDK.BuildTools/10.0.22621.755": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.Windows.SDK.BuildTools.props": {},
+          "build/Microsoft.Windows.SDK.BuildTools.targets": {}
+        }
+      }
+    },
+    "net7.0-windows10.0.19041/iossimulator-x64": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.59": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Graphics.Win2D": "1.0.4",
+          "Microsoft.Maui.Graphics": "7.0.59",
+          "Microsoft.WindowsAppSDK": "1.2.221209.1"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
+      "Microsoft.Windows.SDK.BuildTools/10.0.22621.755": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.Windows.SDK.BuildTools.props": {},
+          "build/Microsoft.Windows.SDK.BuildTools.targets": {}
+        }
+      }
+    },
+    "net7.0-windows10.0.19041/maccatalyst-x64": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.59": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Graphics.Win2D": "1.0.4",
+          "Microsoft.Maui.Graphics": "7.0.59",
+          "Microsoft.WindowsAppSDK": "1.2.221209.1"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
+      "Microsoft.Windows.SDK.BuildTools/10.0.22621.755": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.Windows.SDK.BuildTools.props": {},
+          "build/Microsoft.Windows.SDK.BuildTools.targets": {}
+        }
+      }
+    },
+    "net7.0-windows10.0.19041/win10-x64": {
+      "Microsoft.Maui.Graphics/7.0.59": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.59": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Graphics.Win2D": "1.0.4",
+          "Microsoft.Maui.Graphics": "7.0.59",
+          "Microsoft.WindowsAppSDK": "1.2.221209.1"
+        },
+        "compile": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll": {
+            "related": ".pdb"
+          }
+        }
+      },
+      "Microsoft.Windows.SDK.BuildTools/10.0.22621.755": {
+        "type": "package",
+        "build": {
+          "build/Microsoft.Windows.SDK.BuildTools.props": {},
+          "build/Microsoft.Windows.SDK.BuildTools.targets": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Maui.Graphics/7.0.59": {
+      "sha512": "a5eOfzqeHeERBmQ6g3uU+p4GEwHtBXxQ1s58XIiHCMf/WGCn5HX9z17VLUz6qr2ELVf/BbZ9bFUzVef+kbxkvQ==",
+      "type": "package",
+      "path": "microsoft.maui.graphics/7.0.59",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll",
+        "lib/net7.0-android33.0/Microsoft.Maui.Graphics.pdb",
+        "lib/net7.0-android33.0/Microsoft.Maui.Graphics.xml",
+        "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll",
+        "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.pdb",
+        "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.xml",
+        "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll",
+        "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.pdb",
+        "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.xml",
+        "lib/net7.0-macos13.0/Microsoft.Maui.Graphics.dll",
+        "lib/net7.0-macos13.0/Microsoft.Maui.Graphics.pdb",
+        "lib/net7.0-macos13.0/Microsoft.Maui.Graphics.xml",
+        "lib/net7.0-tizen7.0/Microsoft.Maui.Graphics.dll",
+        "lib/net7.0-tizen7.0/Microsoft.Maui.Graphics.pdb",
+        "lib/net7.0-tizen7.0/Microsoft.Maui.Graphics.xml",
+        "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.dll",
+        "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.pdb",
+        "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.xml",
+        "lib/net7.0-windows10.0.20348/Microsoft.Maui.Graphics.dll",
+        "lib/net7.0-windows10.0.20348/Microsoft.Maui.Graphics.pdb",
+        "lib/net7.0-windows10.0.20348/Microsoft.Maui.Graphics.xml",
+        "lib/net7.0/Microsoft.Maui.Graphics.dll",
+        "lib/net7.0/Microsoft.Maui.Graphics.pdb",
+        "lib/net7.0/Microsoft.Maui.Graphics.xml",
+        "lib/netstandard2.0/Microsoft.Maui.Graphics.dll",
+        "lib/netstandard2.0/Microsoft.Maui.Graphics.pdb",
+        "lib/netstandard2.0/Microsoft.Maui.Graphics.xml",
+        "lib/netstandard2.1/Microsoft.Maui.Graphics.dll",
+        "lib/netstandard2.1/Microsoft.Maui.Graphics.pdb",
+        "lib/netstandard2.1/Microsoft.Maui.Graphics.xml",
+        "microsoft.maui.graphics.7.0.59.nupkg.sha512",
+        "microsoft.maui.graphics.nuspec"
+      ]
+    },
+    "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop/7.0.59": {
+      "sha512": "ExNm2DreudUpAESDCpmFqruINxrjgpNOl+80GjCp/yoFv6QX3exYBmrFZ2zWSb7RrvWJnBPN9SaOHbkpT2+x2A==",
+      "type": "package",
+      "path": "microsoft.maui.graphics.win2d.winui.desktop/7.0.59",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll",
+        "lib/net7.0-windows10.0.19041/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.pdb",
+        "lib/net7.0-windows10.0.20348/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll",
+        "lib/net7.0-windows10.0.20348/Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.pdb",
+        "microsoft.maui.graphics.win2d.winui.desktop.7.0.59.nupkg.sha512",
+        "microsoft.maui.graphics.win2d.winui.desktop.nuspec"
+      ]
+    },
+    "Microsoft.Windows.SDK.BuildTools/10.0.22621.755": {
+      "sha512": "zGXDCZc2/slVjpNtopNETCjnOqH9KiEdo9dPCcjtNWwK5W+EmOcEn7X5Ftj3tOE9kLvroga1s7WwLh2a5jQEEg==",
+      "type": "package",
+      "path": "microsoft.windows.sdk.buildtools/10.0.22621.755",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "bin/10.0.22621.0/arm/AccChecker/Microsoft.Diagnostics.Tracing.EventSource.dll",
+        "bin/10.0.22621.0/arm/DeployUtil.exe",
+        "bin/10.0.22621.0/arm64/AccChecker/Microsoft.Diagnostics.Tracing.EventSource.dll",
+        "bin/10.0.22621.0/arm64/ComparePackage.exe",
+        "bin/10.0.22621.0/arm64/DeployUtil.exe",
+        "bin/10.0.22621.0/arm64/MakeCert.exe",
+        "bin/10.0.22621.0/arm64/Microsoft.ComparePackage.Lib.dll",
+        "bin/10.0.22621.0/arm64/Microsoft.Diagnostics.Tracing.EventSource.dll",
+        "bin/10.0.22621.0/arm64/Microsoft.PackageEditor.Lib.dll",
+        "bin/10.0.22621.0/arm64/Microsoft.Tools.Connectivity.dll",
+        "bin/10.0.22621.0/arm64/Microsoft.Tools.Deploy.dll",
+        "bin/10.0.22621.0/arm64/Microsoft.Windows.Build.Appx.AppxPackaging.dll.manifest",
+        "bin/10.0.22621.0/arm64/Microsoft.Windows.Build.Appx.AppxSip.dll.manifest",
+        "bin/10.0.22621.0/arm64/Microsoft.Windows.Build.Appx.OpcServices.dll.manifest",
+        "bin/10.0.22621.0/arm64/Microsoft.Windows.Build.Signing.mssign32.dll.manifest",
+        "bin/10.0.22621.0/arm64/Microsoft.Windows.Build.Signing.wintrust.dll.manifest",
+        "bin/10.0.22621.0/arm64/PackageEditor.exe",
+        "bin/10.0.22621.0/arm64/ServicingCommon.dll",
+        "bin/10.0.22621.0/arm64/SirepClient.assembly.manifest",
+        "bin/10.0.22621.0/arm64/SirepClient.dll",
+        "bin/10.0.22621.0/arm64/SirepInterop.dll",
+        "bin/10.0.22621.0/arm64/SshClient.dll",
+        "bin/10.0.22621.0/arm64/WinAppDeployCmd.exe",
+        "bin/10.0.22621.0/arm64/WinAppDeployCommon.dll",
+        "bin/10.0.22621.0/arm64/appxpackaging.dll",
+        "bin/10.0.22621.0/arm64/appxsip.dll",
+        "bin/10.0.22621.0/arm64/en-US/AppxPackaging.dll.mui",
+        "bin/10.0.22621.0/arm64/en/Microsoft.Tools.Deploy.resources.dll",
+        "bin/10.0.22621.0/arm64/en/WinAppDeployCmd.resources.dll",
+        "bin/10.0.22621.0/arm64/ipoverusb.discoverpartners.dll",
+        "bin/10.0.22621.0/arm64/makeappx.exe",
+        "bin/10.0.22621.0/arm64/makecat.exe",
+        "bin/10.0.22621.0/arm64/makecat.exe.manifest",
+        "bin/10.0.22621.0/arm64/makepri.exe",
+        "bin/10.0.22621.0/arm64/mc.exe",
+        "bin/10.0.22621.0/arm64/mdmerge.exe",
+        "bin/10.0.22621.0/arm64/midl.exe",
+        "bin/10.0.22621.0/arm64/midlc.exe",
+        "bin/10.0.22621.0/arm64/midlrt.exe",
+        "bin/10.0.22621.0/arm64/midlrtmd.dll",
+        "bin/10.0.22621.0/arm64/mrmsupport.dll",
+        "bin/10.0.22621.0/arm64/msisip.dll",
+        "bin/10.0.22621.0/arm64/mssign32.dll",
+        "bin/10.0.22621.0/arm64/mt.exe",
+        "bin/10.0.22621.0/arm64/mt.exe.config",
+        "bin/10.0.22621.0/arm64/opcservices.dll",
+        "bin/10.0.22621.0/arm64/rc.exe",
+        "bin/10.0.22621.0/arm64/rcdll.dll",
+        "bin/10.0.22621.0/arm64/signtool.exe",
+        "bin/10.0.22621.0/arm64/signtool.exe.manifest",
+        "bin/10.0.22621.0/arm64/tracewpp.exe",
+        "bin/10.0.22621.0/arm64/uuidgen.exe",
+        "bin/10.0.22621.0/arm64/winmdidl.exe",
+        "bin/10.0.22621.0/arm64/wintrust.dll",
+        "bin/10.0.22621.0/arm64/wintrust.dll.ini",
+        "bin/10.0.22621.0/x64/AccChecker/Microsoft.Diagnostics.Tracing.EventSource.dll",
+        "bin/10.0.22621.0/x64/ComparePackage.exe",
+        "bin/10.0.22621.0/x64/DeployUtil.exe",
+        "bin/10.0.22621.0/x64/MakeCert.exe",
+        "bin/10.0.22621.0/x64/Microsoft.ComparePackage.Lib.dll",
+        "bin/10.0.22621.0/x64/Microsoft.Diagnostics.Tracing.EventSource.dll",
+        "bin/10.0.22621.0/x64/Microsoft.PackageEditor.Lib.dll",
+        "bin/10.0.22621.0/x64/Microsoft.Tools.Connectivity.dll",
+        "bin/10.0.22621.0/x64/Microsoft.Tools.Deploy.dll",
+        "bin/10.0.22621.0/x64/Microsoft.Windows.Build.Appx.AppxPackaging.dll.manifest",
+        "bin/10.0.22621.0/x64/Microsoft.Windows.Build.Appx.AppxSip.dll.manifest",
+        "bin/10.0.22621.0/x64/Microsoft.Windows.Build.Appx.OpcServices.dll.manifest",
+        "bin/10.0.22621.0/x64/Microsoft.Windows.Build.Signing.mssign32.dll.manifest",
+        "bin/10.0.22621.0/x64/Microsoft.Windows.Build.Signing.wintrust.dll.manifest",
+        "bin/10.0.22621.0/x64/PackageEditor.exe",
+        "bin/10.0.22621.0/x64/ServicingCommon.dll",
+        "bin/10.0.22621.0/x64/SirepClient.assembly.manifest",
+        "bin/10.0.22621.0/x64/SirepClient.dll",
+        "bin/10.0.22621.0/x64/SirepInterop.dll",
+        "bin/10.0.22621.0/x64/SshClient.dll",
+        "bin/10.0.22621.0/x64/WinAppDeployCmd.exe",
+        "bin/10.0.22621.0/x64/WinAppDeployCommon.dll",
+        "bin/10.0.22621.0/x64/appxpackaging.dll",
+        "bin/10.0.22621.0/x64/appxsip.dll",
+        "bin/10.0.22621.0/x64/en-US/AppxPackaging.dll.mui",
+        "bin/10.0.22621.0/x64/en/Microsoft.Tools.Deploy.resources.dll",
+        "bin/10.0.22621.0/x64/en/WinAppDeployCmd.resources.dll",
+        "bin/10.0.22621.0/x64/ipoverusb.discoverpartners.dll",
+        "bin/10.0.22621.0/x64/makeappx.exe",
+        "bin/10.0.22621.0/x64/makecat.exe",
+        "bin/10.0.22621.0/x64/makecat.exe.manifest",
+        "bin/10.0.22621.0/x64/makepri.exe",
+        "bin/10.0.22621.0/x64/mc.exe",
+        "bin/10.0.22621.0/x64/mdmerge.exe",
+        "bin/10.0.22621.0/x64/midl.exe",
+        "bin/10.0.22621.0/x64/midlc.exe",
+        "bin/10.0.22621.0/x64/midlrt.exe",
+        "bin/10.0.22621.0/x64/midlrtmd.dll",
+        "bin/10.0.22621.0/x64/mrmsupport.dll",
+        "bin/10.0.22621.0/x64/msisip.dll",
+        "bin/10.0.22621.0/x64/mssign32.dll",
+        "bin/10.0.22621.0/x64/mt.exe",
+        "bin/10.0.22621.0/x64/mt.exe.config",
+        "bin/10.0.22621.0/x64/opcservices.dll",
+        "bin/10.0.22621.0/x64/rc.exe",
+        "bin/10.0.22621.0/x64/rcdll.dll",
+        "bin/10.0.22621.0/x64/signtool.exe",
+        "bin/10.0.22621.0/x64/signtool.exe.manifest",
+        "bin/10.0.22621.0/x64/tracewpp.exe",
+        "bin/10.0.22621.0/x64/uuidgen.exe",
+        "bin/10.0.22621.0/x64/winmdidl.exe",
+        "bin/10.0.22621.0/x64/wintrust.dll",
+        "bin/10.0.22621.0/x64/wintrust.dll.ini",
+        "bin/10.0.22621.0/x86/AccChecker/Microsoft.Diagnostics.Tracing.EventSource.dll",
+        "bin/10.0.22621.0/x86/ComparePackage.exe",
+        "bin/10.0.22621.0/x86/DeployUtil.exe",
+        "bin/10.0.22621.0/x86/MakeCert.exe",
+        "bin/10.0.22621.0/x86/Microsoft.ComparePackage.Lib.dll",
+        "bin/10.0.22621.0/x86/Microsoft.Diagnostics.Tracing.EventSource.dll",
+        "bin/10.0.22621.0/x86/Microsoft.PackageEditor.Lib.dll",
+        "bin/10.0.22621.0/x86/Microsoft.Tools.Connectivity.dll",
+        "bin/10.0.22621.0/x86/Microsoft.Tools.Deploy.dll",
+        "bin/10.0.22621.0/x86/Microsoft.Windows.Build.Appx.AppxPackaging.dll.manifest",
+        "bin/10.0.22621.0/x86/Microsoft.Windows.Build.Appx.AppxSip.dll.manifest",
+        "bin/10.0.22621.0/x86/Microsoft.Windows.Build.Appx.OpcServices.dll.manifest",
+        "bin/10.0.22621.0/x86/Microsoft.Windows.Build.Signing.mssign32.dll.manifest",
+        "bin/10.0.22621.0/x86/Microsoft.Windows.Build.Signing.wintrust.dll.manifest",
+        "bin/10.0.22621.0/x86/PackageEditor.exe",
+        "bin/10.0.22621.0/x86/ServicingCommon.dll",
+        "bin/10.0.22621.0/x86/SirepClient.assembly.manifest",
+        "bin/10.0.22621.0/x86/SirepClient.dll",
+        "bin/10.0.22621.0/x86/SirepInterop.dll",
+        "bin/10.0.22621.0/x86/SshClient.dll",
+        "bin/10.0.22621.0/x86/WinAppDeployCmd.exe",
+        "bin/10.0.22621.0/x86/WinAppDeployCommon.dll",
+        "bin/10.0.22621.0/x86/appxpackaging.dll",
+        "bin/10.0.22621.0/x86/appxsip.dll",
+        "bin/10.0.22621.0/x86/en-US/AppxPackaging.dll.mui",
+        "bin/10.0.22621.0/x86/en/Microsoft.Tools.Deploy.resources.dll",
+        "bin/10.0.22621.0/x86/en/WinAppDeployCmd.resources.dll",
+        "bin/10.0.22621.0/x86/ipoverusb.discoverpartners.dll",
+        "bin/10.0.22621.0/x86/makeappx.exe",
+        "bin/10.0.22621.0/x86/makecat.exe",
+        "bin/10.0.22621.0/x86/makecat.exe.manifest",
+        "bin/10.0.22621.0/x86/makepri.exe",
+        "bin/10.0.22621.0/x86/mc.exe",
+        "bin/10.0.22621.0/x86/mdmerge.exe",
+        "bin/10.0.22621.0/x86/midl.exe",
+        "bin/10.0.22621.0/x86/midlc.exe",
+        "bin/10.0.22621.0/x86/midlrt.exe",
+        "bin/10.0.22621.0/x86/midlrtmd.dll",
+        "bin/10.0.22621.0/x86/mrmsupport.dll",
+        "bin/10.0.22621.0/x86/msisip.dll",
+        "bin/10.0.22621.0/x86/mssign32.dll",
+        "bin/10.0.22621.0/x86/mt.exe",
+        "bin/10.0.22621.0/x86/mt.exe.config",
+        "bin/10.0.22621.0/x86/opcservices.dll",
+        "bin/10.0.22621.0/x86/rc.exe",
+        "bin/10.0.22621.0/x86/rcdll.dll",
+        "bin/10.0.22621.0/x86/signtool.exe",
+        "bin/10.0.22621.0/x86/signtool.exe.manifest",
+        "bin/10.0.22621.0/x86/tracewpp.exe",
+        "bin/10.0.22621.0/x86/uuidgen.exe",
+        "bin/10.0.22621.0/x86/winmdidl.exe",
+        "bin/10.0.22621.0/x86/wintrust.dll",
+        "bin/10.0.22621.0/x86/wintrust.dll.ini",
+        "build/Microsoft.Windows.SDK.BuildTools.props",
+        "build/Microsoft.Windows.SDK.BuildTools.targets",
+        "microsoft.windows.sdk.buildtools.10.0.22621.755.nupkg.sha512",
+        "microsoft.windows.sdk.buildtools.nuspec",
+        "schemas/10.0.22621.0/winrt/AppxManifestSchema.xsd",
+        "schemas/10.0.22621.0/winrt/AppxManifestSchema2010_v2.xsd",
+        "schemas/10.0.22621.0/winrt/AppxManifestSchema2013.xsd",
+        "schemas/10.0.22621.0/winrt/FoundationManifestSchema.xsd",
+        "schemas/10.0.22621.0/winrt/FoundationManifestSchema_v2.xsd",
+        "schemas/10.0.22621.0/winrt/UapManifestSchema.xsd",
+        "schemas/10.0.22621.0/winrt/UapManifestSchema_v10.xsd",
+        "schemas/10.0.22621.0/winrt/UapManifestSchema_v11.xsd",
+        "schemas/10.0.22621.0/winrt/UapManifestSchema_v12.xsd",
+        "schemas/10.0.22621.0/winrt/UapManifestSchema_v13.xsd",
+        "schemas/10.0.22621.0/winrt/UapManifestSchema_v2.xsd",
+        "schemas/10.0.22621.0/winrt/UapManifestSchema_v3.xsd",
+        "schemas/10.0.22621.0/winrt/UapManifestSchema_v4.xsd",
+        "schemas/10.0.22621.0/winrt/UapManifestSchema_v5.xsd",
+        "schemas/10.0.22621.0/winrt/UapManifestSchema_v6.xsd",
+        "schemas/10.0.22621.0/winrt/UapManifestSchema_v7.xsd",
+        "schemas/10.0.22621.0/winrt/UapManifestSchema_v8.xsd"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0-android33.0": [
+      "Microsoft.Extensions.Configuration >= 7.0.0",
+      "Microsoft.Extensions.DependencyInjection >= 7.0.0",
+      "Microsoft.Extensions.Logging >= 7.0.0",
+      "Microsoft.Extensions.Logging.Abstractions >= 7.0.0",
+      "Microsoft.Extensions.Logging.Debug >= 7.0.0",
+      "Microsoft.Maui.Graphics >= 7.0.59",
+      "Xamarin.Android.Glide >= 4.13.2.2",
+      "Xamarin.AndroidX.Browser >= 1.4.0.3",
+      "Xamarin.AndroidX.Legacy.Support.V4 >= 1.0.0.15",
+      "Xamarin.AndroidX.Lifecycle.LiveData >= 2.5.1.1",
+      "Xamarin.AndroidX.Navigation.Common >= 2.5.2.1",
+      "Xamarin.AndroidX.Navigation.Fragment >= 2.5.2.1",
+      "Xamarin.AndroidX.Navigation.Runtime >= 2.5.2.1",
+      "Xamarin.AndroidX.Navigation.UI >= 2.5.2.1",
+      "Xamarin.AndroidX.Security.SecurityCrypto >= 1.1.0-alpha03",
+      "Xamarin.Google.Android.Material >= 1.7.0",
+      "Xamarin.Google.Crypto.Tink.Android >= 1.7.0.1"
+    ],
+    "net7.0-ios16.1": [
+      "Microsoft.Extensions.Configuration >= 7.0.0",
+      "Microsoft.Extensions.DependencyInjection >= 7.0.0",
+      "Microsoft.Extensions.Logging >= 7.0.0",
+      "Microsoft.Extensions.Logging.Abstractions >= 7.0.0",
+      "Microsoft.Extensions.Logging.Debug >= 7.0.0",
+      "Microsoft.Maui.Graphics >= 7.0.59"
+    ],
+    "net7.0-maccatalyst16.1": [
+      "Microsoft.Extensions.Configuration >= 7.0.0",
+      "Microsoft.Extensions.DependencyInjection >= 7.0.0",
+      "Microsoft.Extensions.Logging >= 7.0.0",
+      "Microsoft.Extensions.Logging.Abstractions >= 7.0.0",
+      "Microsoft.Extensions.Logging.Debug >= 7.0.0",
+      "Microsoft.Maui.Graphics >= 7.0.59"
+    ],
+    "net7.0-windows10.0.19041": [
+      "Microsoft.Extensions.Configuration >= 7.0.0",
+      "Microsoft.Extensions.DependencyInjection >= 7.0.0",
+      "Microsoft.Extensions.Logging >= 7.0.0",
+      "Microsoft.Extensions.Logging.Abstractions >= 7.0.0",
+      "Microsoft.Extensions.Logging.Debug >= 7.0.0",
+      "Microsoft.Maui.Graphics >= 7.0.59",
+      "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop >= 7.0.59",
+      "Microsoft.Windows.SDK.BuildTools >= 10.0.22621.755",
+      "Microsoft.WindowsAppSDK >= 1.2.221209.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\lenovo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\Native Apps\\.NET\\MS-Build-MobileDesktop-Apps\\MS-Build-MobileDesktop-Apps.csproj",
+      "projectName": "MS-Build-MobileDesktop-Apps",
+      "projectPath": "C:\\Users\\lenovo\\Desktop\\Native Apps\\.NET\\MS-Build-MobileDesktop-Apps\\MS-Build-MobileDesktop-Apps.csproj",
+      "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lenovo\\Desktop\\Native Apps\\.NET\\MS-Build-MobileDesktop-Apps\\obj\\",
+      "projectStyle": "PackageReference",
+      "crossTargeting": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0-android",
+        "net7.0-ios",
+        "net7.0-maccatalyst",
+        "net7.0-windows10.0.19041.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {}
+      },
+      "frameworks": {
+        "net7.0-android33.0": {
+          "targetAlias": "net7.0-android",
+          "projectReferences": {}
+        },
+        "net7.0-ios16.1": {
+          "targetAlias": "net7.0-ios",
+          "projectReferences": {}
+        },
+        "net7.0-maccatalyst16.1": {
+          "targetAlias": "net7.0-maccatalyst",
+          "projectReferences": {}
+        },
+        "net7.0-windows10.0.19041": {
+          "targetAlias": "net7.0-windows10.0.19041.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0-android33.0": {
+        "targetAlias": "net7.0-android",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": {
+            "target": "Package",
+            "version": "[7.0.0, )",
+            "autoReferenced": true
+          },
+          "Microsoft.Extensions.DependencyInjection": {
+            "target": "Package",
+            "version": "[7.0.0, )",
+            "autoReferenced": true
+          },
+          "Microsoft.Extensions.Logging": {
+            "target": "Package",
+            "version": "[7.0.0, )",
+            "autoReferenced": true
+          },
+          "Microsoft.Extensions.Logging.Abstractions": {
+            "target": "Package",
+            "version": "[7.0.0, )",
+            "autoReferenced": true
+          },
+          "Microsoft.Extensions.Logging.Debug": {
+            "target": "Package",
+            "version": "[7.0.0, )"
+          },
+          "Microsoft.Maui.Graphics": {
+            "target": "Package",
+            "version": "[7.0.59, )",
+            "autoReferenced": true
+          },
+          "Xamarin.Android.Glide": {
+            "target": "Package",
+            "version": "[4.13.2.2, )",
+            "autoReferenced": true
+          },
+          "Xamarin.AndroidX.Browser": {
+            "target": "Package",
+            "version": "[1.4.0.3, )",
+            "autoReferenced": true
+          },
+          "Xamarin.AndroidX.Legacy.Support.V4": {
+            "target": "Package",
+            "version": "[1.0.0.15, )",
+            "autoReferenced": true
+          },
+          "Xamarin.AndroidX.Lifecycle.LiveData": {
+            "target": "Package",
+            "version": "[2.5.1.1, )",
+            "autoReferenced": true
+          },
+          "Xamarin.AndroidX.Navigation.Common": {
+            "target": "Package",
+            "version": "[2.5.2.1, )",
+            "autoReferenced": true
+          },
+          "Xamarin.AndroidX.Navigation.Fragment": {
+            "target": "Package",
+            "version": "[2.5.2.1, )",
+            "autoReferenced": true
+          },
+          "Xamarin.AndroidX.Navigation.Runtime": {
+            "target": "Package",
+            "version": "[2.5.2.1, )",
+            "autoReferenced": true
+          },
+          "Xamarin.AndroidX.Navigation.UI": {
+            "target": "Package",
+            "version": "[2.5.2.1, )",
+            "autoReferenced": true
+          },
+          "Xamarin.AndroidX.Security.SecurityCrypto": {
+            "target": "Package",
+            "version": "[1.1.0-alpha03, )",
+            "autoReferenced": true
+          },
+          "Xamarin.Google.Android.Material": {
+            "target": "Package",
+            "version": "[1.7.0, )",
+            "autoReferenced": true
+          },
+          "Xamarin.Google.Crypto.Tink.Android": {
+            "target": "Package",
+            "version": "[1.7.0.1, )",
+            "autoReferenced": true
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.Android": {
+            "privateAssets": "all"
+          },
+          "Microsoft.Maui.Controls": {
+            "privateAssets": "all"
+          },
+          "Microsoft.Maui.Core": {
+            "privateAssets": "all"
+          },
+          "Microsoft.Maui.Essentials": {
+            "privateAssets": "all"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+      },
+      "net7.0-ios16.1": {
+        "targetAlias": "net7.0-ios",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": {
+            "target": "Package",
+            "version": "[7.0.0, )",
+            "autoReferenced": true
+          },
+          "Microsoft.Extensions.DependencyInjection": {
+            "target": "Package",
+            "version": "[7.0.0, )",
+            "autoReferenced": true
+          },
+          "Microsoft.Extensions.Logging": {
+            "target": "Package",
+            "version": "[7.0.0, )",
+            "autoReferenced": true
+          },
+          "Microsoft.Extensions.Logging.Abstractions": {
+            "target": "Package",
+            "version": "[7.0.0, )",
+            "autoReferenced": true
+          },
+          "Microsoft.Extensions.Logging.Debug": {
+            "target": "Package",
+            "version": "[7.0.0, )"
+          },
+          "Microsoft.Maui.Graphics": {
+            "target": "Package",
+            "version": "[7.0.59, )",
+            "autoReferenced": true
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.iOS": {
+            "privateAssets": "all"
+          },
+          "Microsoft.Maui.Controls": {
+            "privateAssets": "all"
+          },
+          "Microsoft.Maui.Core": {
+            "privateAssets": "all"
+          },
+          "Microsoft.Maui.Essentials": {
+            "privateAssets": "all"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+      },
+      "net7.0-maccatalyst16.1": {
+        "targetAlias": "net7.0-maccatalyst",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": {
+            "target": "Package",
+            "version": "[7.0.0, )",
+            "autoReferenced": true
+          },
+          "Microsoft.Extensions.DependencyInjection": {
+            "target": "Package",
+            "version": "[7.0.0, )",
+            "autoReferenced": true
+          },
+          "Microsoft.Extensions.Logging": {
+            "target": "Package",
+            "version": "[7.0.0, )",
+            "autoReferenced": true
+          },
+          "Microsoft.Extensions.Logging.Abstractions": {
+            "target": "Package",
+            "version": "[7.0.0, )",
+            "autoReferenced": true
+          },
+          "Microsoft.Extensions.Logging.Debug": {
+            "target": "Package",
+            "version": "[7.0.0, )"
+          },
+          "Microsoft.Maui.Graphics": {
+            "target": "Package",
+            "version": "[7.0.59, )",
+            "autoReferenced": true
+          }
+        },
+        "imports": [
+          "xamarinios10",
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.MacCatalyst": {
+            "privateAssets": "all"
+          },
+          "Microsoft.Maui.Controls": {
+            "privateAssets": "all"
+          },
+          "Microsoft.Maui.Core": {
+            "privateAssets": "all"
+          },
+          "Microsoft.Maui.Essentials": {
+            "privateAssets": "all"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+      },
+      "net7.0-windows10.0.19041": {
+        "targetAlias": "net7.0-windows10.0.19041.0",
+        "dependencies": {
+          "Microsoft.Extensions.Configuration": {
+            "target": "Package",
+            "version": "[7.0.0, )",
+            "autoReferenced": true
+          },
+          "Microsoft.Extensions.DependencyInjection": {
+            "target": "Package",
+            "version": "[7.0.0, )",
+            "autoReferenced": true
+          },
+          "Microsoft.Extensions.Logging": {
+            "target": "Package",
+            "version": "[7.0.0, )",
+            "autoReferenced": true
+          },
+          "Microsoft.Extensions.Logging.Abstractions": {
+            "target": "Package",
+            "version": "[7.0.0, )",
+            "autoReferenced": true
+          },
+          "Microsoft.Extensions.Logging.Debug": {
+            "target": "Package",
+            "version": "[7.0.0, )"
+          },
+          "Microsoft.Maui.Graphics": {
+            "target": "Package",
+            "version": "[7.0.59, )",
+            "autoReferenced": true
+          },
+          "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop": {
+            "target": "Package",
+            "version": "[7.0.59, )",
+            "autoReferenced": true
+          },
+          "Microsoft.Windows.SDK.BuildTools": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[10.0.22621.755, )",
+            "autoReferenced": true
+          },
+          "Microsoft.WindowsAppSDK": {
+            "target": "Package",
+            "version": "[1.2.221209.1, )",
+            "autoReferenced": true
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+            "version": "[7.0.3, 7.0.3]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Runtime.win-x64",
+            "version": "[7.0.3, 7.0.3]"
+          },
+          {
+            "name": "Microsoft.Windows.SDK.NET.Ref",
+            "version": "[10.0.19041.28, 10.0.19041.28]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+            "version": "[7.0.3, 7.0.3]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.Maui.Controls": {
+            "privateAssets": "all"
+          },
+          "Microsoft.Maui.Core": {
+            "privateAssets": "all"
+          },
+          "Microsoft.Maui.Essentials": {
+            "privateAssets": "all"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.Windows.SDK.NET.Ref": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "android-arm": {
+        "#import": []
+      },
+      "android-arm64": {
+        "#import": []
+      },
+      "android-x64": {
+        "#import": []
+      },
+      "android-x86": {
+        "#import": []
+      },
+      "iossimulator-x64": {
+        "#import": []
+      },
+      "maccatalyst-x64": {
+        "#import": []
+      },
+      "win10-x64": {
+        "#import": []
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Xamarin.AndroidX.Navigation.Fragment. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Xamarin.AndroidX.Navigation.Fragment",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Xamarin.Google.Android.Material. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Xamarin.Google.Android.Material",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Xamarin.Google.Crypto.Tink.Android. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Xamarin.Google.Crypto.Tink.Android",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Xamarin.AndroidX.Navigation.Common. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Xamarin.AndroidX.Navigation.Common",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Xamarin.AndroidX.Security.SecurityCrypto. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Xamarin.AndroidX.Security.SecurityCrypto",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.Extensions.DependencyInjection. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Extensions.DependencyInjection",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64",
+        "net7.0-ios16.1",
+        "net7.0-ios16.1/android-arm",
+        "net7.0-ios16.1/android-arm64",
+        "net7.0-ios16.1/android-x64",
+        "net7.0-ios16.1/android-x86",
+        "net7.0-ios16.1/iossimulator-x64",
+        "net7.0-ios16.1/maccatalyst-x64",
+        "net7.0-ios16.1/win10-x64",
+        "net7.0-maccatalyst16.1",
+        "net7.0-maccatalyst16.1/android-arm",
+        "net7.0-maccatalyst16.1/android-arm64",
+        "net7.0-maccatalyst16.1/android-x64",
+        "net7.0-maccatalyst16.1/android-x86",
+        "net7.0-maccatalyst16.1/iossimulator-x64",
+        "net7.0-maccatalyst16.1/maccatalyst-x64",
+        "net7.0-maccatalyst16.1/win10-x64",
+        "net7.0-windows10.0.19041",
+        "net7.0-windows10.0.19041/android-arm",
+        "net7.0-windows10.0.19041/android-arm64",
+        "net7.0-windows10.0.19041/android-x64",
+        "net7.0-windows10.0.19041/android-x86",
+        "net7.0-windows10.0.19041/iossimulator-x64",
+        "net7.0-windows10.0.19041/maccatalyst-x64",
+        "net7.0-windows10.0.19041/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Xamarin.AndroidX.Lifecycle.LiveData. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.LiveData",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Xamarin.Android.Glide. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Xamarin.Android.Glide",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Xamarin.AndroidX.Legacy.Support.V4. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Xamarin.AndroidX.Legacy.Support.V4",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Xamarin.AndroidX.Navigation.UI. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Xamarin.AndroidX.Navigation.UI",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.Extensions.Logging. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Extensions.Logging",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64",
+        "net7.0-ios16.1",
+        "net7.0-ios16.1/android-arm",
+        "net7.0-ios16.1/android-arm64",
+        "net7.0-ios16.1/android-x64",
+        "net7.0-ios16.1/android-x86",
+        "net7.0-ios16.1/iossimulator-x64",
+        "net7.0-ios16.1/maccatalyst-x64",
+        "net7.0-ios16.1/win10-x64",
+        "net7.0-maccatalyst16.1",
+        "net7.0-maccatalyst16.1/android-arm",
+        "net7.0-maccatalyst16.1/android-arm64",
+        "net7.0-maccatalyst16.1/android-x64",
+        "net7.0-maccatalyst16.1/android-x86",
+        "net7.0-maccatalyst16.1/iossimulator-x64",
+        "net7.0-maccatalyst16.1/maccatalyst-x64",
+        "net7.0-maccatalyst16.1/win10-x64",
+        "net7.0-windows10.0.19041",
+        "net7.0-windows10.0.19041/android-arm",
+        "net7.0-windows10.0.19041/android-arm64",
+        "net7.0-windows10.0.19041/android-x64",
+        "net7.0-windows10.0.19041/android-x86",
+        "net7.0-windows10.0.19041/iossimulator-x64",
+        "net7.0-windows10.0.19041/maccatalyst-x64",
+        "net7.0-windows10.0.19041/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Xamarin.AndroidX.Browser. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Xamarin.AndroidX.Browser",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.Extensions.Logging.Abstractions. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64",
+        "net7.0-ios16.1",
+        "net7.0-ios16.1/android-arm",
+        "net7.0-ios16.1/android-arm64",
+        "net7.0-ios16.1/android-x64",
+        "net7.0-ios16.1/android-x86",
+        "net7.0-ios16.1/iossimulator-x64",
+        "net7.0-ios16.1/maccatalyst-x64",
+        "net7.0-ios16.1/win10-x64",
+        "net7.0-maccatalyst16.1",
+        "net7.0-maccatalyst16.1/android-arm",
+        "net7.0-maccatalyst16.1/android-arm64",
+        "net7.0-maccatalyst16.1/android-x64",
+        "net7.0-maccatalyst16.1/android-x86",
+        "net7.0-maccatalyst16.1/iossimulator-x64",
+        "net7.0-maccatalyst16.1/maccatalyst-x64",
+        "net7.0-maccatalyst16.1/win10-x64",
+        "net7.0-windows10.0.19041",
+        "net7.0-windows10.0.19041/android-arm",
+        "net7.0-windows10.0.19041/android-arm64",
+        "net7.0-windows10.0.19041/android-x64",
+        "net7.0-windows10.0.19041/android-x86",
+        "net7.0-windows10.0.19041/iossimulator-x64",
+        "net7.0-windows10.0.19041/maccatalyst-x64",
+        "net7.0-windows10.0.19041/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Xamarin.AndroidX.Navigation.Runtime. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Xamarin.AndroidX.Navigation.Runtime",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.Extensions.Logging.Debug. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Extensions.Logging.Debug",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64",
+        "net7.0-ios16.1",
+        "net7.0-ios16.1/android-arm",
+        "net7.0-ios16.1/android-arm64",
+        "net7.0-ios16.1/android-x64",
+        "net7.0-ios16.1/android-x86",
+        "net7.0-ios16.1/iossimulator-x64",
+        "net7.0-ios16.1/maccatalyst-x64",
+        "net7.0-ios16.1/win10-x64",
+        "net7.0-maccatalyst16.1",
+        "net7.0-maccatalyst16.1/android-arm",
+        "net7.0-maccatalyst16.1/android-arm64",
+        "net7.0-maccatalyst16.1/android-x64",
+        "net7.0-maccatalyst16.1/android-x86",
+        "net7.0-maccatalyst16.1/iossimulator-x64",
+        "net7.0-maccatalyst16.1/maccatalyst-x64",
+        "net7.0-maccatalyst16.1/win10-x64",
+        "net7.0-windows10.0.19041",
+        "net7.0-windows10.0.19041/android-arm",
+        "net7.0-windows10.0.19041/android-arm64",
+        "net7.0-windows10.0.19041/android-x64",
+        "net7.0-windows10.0.19041/android-x86",
+        "net7.0-windows10.0.19041/iossimulator-x64",
+        "net7.0-windows10.0.19041/maccatalyst-x64",
+        "net7.0-windows10.0.19041/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.Extensions.Configuration. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Extensions.Configuration",
+      "targetGraphs": [
+        "net7.0-android33.0",
+        "net7.0-android33.0/android-arm",
+        "net7.0-android33.0/android-arm64",
+        "net7.0-android33.0/android-x64",
+        "net7.0-android33.0/android-x86",
+        "net7.0-android33.0/iossimulator-x64",
+        "net7.0-android33.0/maccatalyst-x64",
+        "net7.0-android33.0/win10-x64",
+        "net7.0-ios16.1",
+        "net7.0-ios16.1/android-arm",
+        "net7.0-ios16.1/android-arm64",
+        "net7.0-ios16.1/android-x64",
+        "net7.0-ios16.1/android-x86",
+        "net7.0-ios16.1/iossimulator-x64",
+        "net7.0-ios16.1/maccatalyst-x64",
+        "net7.0-ios16.1/win10-x64",
+        "net7.0-maccatalyst16.1",
+        "net7.0-maccatalyst16.1/android-arm",
+        "net7.0-maccatalyst16.1/android-arm64",
+        "net7.0-maccatalyst16.1/android-x64",
+        "net7.0-maccatalyst16.1/android-x86",
+        "net7.0-maccatalyst16.1/iossimulator-x64",
+        "net7.0-maccatalyst16.1/maccatalyst-x64",
+        "net7.0-maccatalyst16.1/win10-x64",
+        "net7.0-windows10.0.19041",
+        "net7.0-windows10.0.19041/android-arm",
+        "net7.0-windows10.0.19041/android-arm64",
+        "net7.0-windows10.0.19041/android-x64",
+        "net7.0-windows10.0.19041/android-x86",
+        "net7.0-windows10.0.19041/iossimulator-x64",
+        "net7.0-windows10.0.19041/maccatalyst-x64",
+        "net7.0-windows10.0.19041/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.WindowsAppSDK. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.WindowsAppSDK",
+      "targetGraphs": [
+        "net7.0-windows10.0.19041",
+        "net7.0-windows10.0.19041/android-arm",
+        "net7.0-windows10.0.19041/android-arm64",
+        "net7.0-windows10.0.19041/android-x64",
+        "net7.0-windows10.0.19041/android-x86",
+        "net7.0-windows10.0.19041/iossimulator-x64",
+        "net7.0-windows10.0.19041/maccatalyst-x64",
+        "net7.0-windows10.0.19041/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.Graphics.Win2D. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Graphics.Win2D",
+      "targetGraphs": [
+        "net7.0-windows10.0.19041",
+        "net7.0-windows10.0.19041/android-arm",
+        "net7.0-windows10.0.19041/android-arm64",
+        "net7.0-windows10.0.19041/android-x64",
+        "net7.0-windows10.0.19041/android-x86",
+        "net7.0-windows10.0.19041/iossimulator-x64",
+        "net7.0-windows10.0.19041/maccatalyst-x64",
+        "net7.0-windows10.0.19041/win10-x64"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.Windows.SDK.NET.Ref. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.Windows.SDK.NET.Ref",
+      "targetGraphs": [
+        "net7.0-windows10.0.19041"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.App.Runtime.win-x64. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.App.Runtime.win-x64",
+      "targetGraphs": [
+        "net7.0-windows10.0.19041"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.WindowsDesktop.App.Runtime.win-x64. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+      "targetGraphs": [
+        "net7.0-windows10.0.19041"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App.Runtime.win-x64. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETCore.App.Runtime.win-x64",
+      "targetGraphs": [
+        "net7.0-windows10.0.19041"
+      ]
+    }
+  ]
+}
